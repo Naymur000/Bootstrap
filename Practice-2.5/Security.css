@@ -7,7 +7,7 @@
 .navbar1{
    height: 750px;
    width: 100%;
-   background: rgba(0,0,0,0.6) url("/Bootstrap/Practice-2.5/imageSecurity/background.jpeg");
+   background: rgba(0,0,0,0.6) url("./imageSecurity/background.jpeg");
    background-blend-mode: darken;
    background-size: cover;
 }
